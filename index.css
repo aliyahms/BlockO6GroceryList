@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: teal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.storage h2 {
+  background-color: antiquewhite;
+  border: 1px solid;
+  padding: 0.25rem 0;
+  width: 80%;
+}
+
+.storage_unit {
+  display: flex;
+  gap: 1rem;
+}
+
+.storage_items {
+  background-color: rgb(196, 191, 191);
+  padding: 0.25rem;
+
+  flex: 1;
+}
+
+.storage_image {
+  border: 2px solid;
+}
